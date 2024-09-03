@@ -7,6 +7,8 @@
 
 ## topics
 
+- controlled compoents
+- uncontrolled components
 - createContext
 - forwardRef
 - lazy
@@ -16,3 +18,4 @@
 - Profiler
 - Suspense
 - StrictMode
+- Children components
